@@ -425,7 +425,6 @@ p {
 h3 {
 	/* text-align: center; */
 	font-weight: 700;
-	margin: 10px 0;
 }
 
 .services-col:hover {
@@ -480,7 +479,6 @@ h3 {
 h2 {
 	text-align: left;
 	font-weight: 700;
-	margin: 10px 0;
 	color: #e626c9;
 
 }
